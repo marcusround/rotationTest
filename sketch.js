@@ -1,5 +1,5 @@
 function setup() {
-  dv = createDiv ("test");
+  dv = createImg ('http://i.imgur.com/zktRC5t.gif');
 }
 
 function draw() {
